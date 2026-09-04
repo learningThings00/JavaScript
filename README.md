@@ -59,3 +59,5 @@ Day 24 - Today I completed whole advanced function and updated rock paper scisso
 Day 25 - Learned about reduce method and its application.
 
 Day 26 - Problems on reduce filter and map method.
+
+Day 27 - Practice on OOP and Class.
