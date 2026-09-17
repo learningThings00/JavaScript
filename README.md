@@ -63,3 +63,5 @@ Day 26 - Problems on reduce filter and map method.
 Day 27 - Practice on OOP and Class.
 
 Day 28 - Practiced Promises, async await and error handling.
+
+Day 29 - Did last exercise of superSimpleDev lesson 18.
